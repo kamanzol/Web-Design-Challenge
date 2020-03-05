@@ -1,25 +1,18 @@
-#main-page,
-#contact-info,
-#bio-image {
-  float: left;
+h1 {
+  color: rgb(25, 207, 198);
+  background-color: white;
 }
 
-#figure {
-  position: relative;
+h4 {
+  color: rgb(25, 207, 198);
+  background-color: white;
 }
 
-#bio-name {
-  position: absolute;
-  top: 150px;
-  left: 30px;
+body {
+  background: rgb(235, 232, 232);
 }
 
-#main-page {
-  width: 70%;
-}
-
-#img {
-    height: 200px;
-    width: 200pn;
-
+.navbar {
+  padding: 10px;
+  background: red;
 }
