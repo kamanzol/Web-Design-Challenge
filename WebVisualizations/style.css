@@ -8,11 +8,21 @@ h4 {
   background-color: white;
 }
 
+h3 {
+  color: rgb(25, 207, 198);
+  background-color: white;
+}
+
 body {
   background: rgb(235, 232, 232);
 }
 
-.navbar {
+.navbar-brand {
   padding: 10px;
-  background: red;
+  background: rgb(25, 207, 198);
+}
+
+
+#index-image {
+  float: left;
 }
