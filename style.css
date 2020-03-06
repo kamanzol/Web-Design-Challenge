@@ -1,0 +1,33 @@
+h1 {
+  color: rgb(25, 207, 198);
+  background-color: white;
+}
+
+h4 {
+  color: rgb(25, 207, 198);
+  background-color: white;
+}
+
+h3 {
+  color: rgb(25, 207, 198);
+  background-color: white;
+}
+
+body {
+  background: rgb(235, 232, 232);
+}
+
+.navbar-brand {
+  padding: 10px;
+  background: rgb(25, 207, 198);
+}
+
+
+#index-image {
+  float: left;
+}
+
+.description-content {
+  background-color: white;
+
+}
